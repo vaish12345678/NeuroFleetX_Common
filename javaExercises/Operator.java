@@ -33,7 +33,7 @@ public class Operator {
         System.out.println();
     }
     public static void main(String args[]){
-        arithmeticOperators();
+        arithmeticOperators();  
         // logicalOperators();
         // relationalOperators();
 
